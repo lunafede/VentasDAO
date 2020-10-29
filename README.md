@@ -1,4 +1,5 @@
 # VentasDAO
+Luna Federico Gabriel, Vargas mirtha Elisa
 
 Proyecto que contiene el Alta de Categoria y Clientes con JDBC
 
